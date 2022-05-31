@@ -4,13 +4,16 @@
 
 img {   
     width: 500px;
-    height: 550px;
+    height: 600px;
+    float: 
 }
 
 section {
     width: 50%;
-    height: 50%;
+    height: 60%;
     margin: 10px;
+    border: 20px;
+    border-color: black;
 }
 
 header nav {
@@ -39,7 +42,7 @@ header nav ul li {
 
 #projects   {
     font-size: 15px;
-    background-color: rgb(243, 206, 136);
+    background-color: #edb2aa;
     font-family: 'Times New Roman', Times, serif;
     
 }
@@ -51,7 +54,7 @@ header nav ul li {
 }
 
 #background {
-    background-image: url(C:\Users\jjfra\Desktop\homework\Porforlio\img\top background.png);
+    background-image: url(./assets/img/background-image);
 }
 
 .contact-box    {
@@ -65,3 +68,13 @@ header nav ul li {
     text-align: center;
 }
 
+.aside {
+    margin: 20px;
+    padding: 20 px;
+
+
+}
+
+.aside {
+    float: left;
+}

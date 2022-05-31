@@ -6,8 +6,9 @@ I contructed a skeletal HTML and I started adding different elements inside, lik
 
 ## Screenshot
 
+![Profile]("./assets/css/porfolio.png")
 
 
 
 ## Deployed Link
-[Google](www.google.com)
+[](www.google.com)
