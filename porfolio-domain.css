@@ -1,0 +1,67 @@
+*   {
+    box-sizing: border-box;
+}
+
+img {   
+    width: 500px;
+    height: 550px;
+}
+
+section {
+    width: 50%;
+    height: 50%;
+    margin: 10px;
+}
+
+header nav {
+    padding-top: 15px;
+    margin-right: 20px;
+    float: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+
+header nav ul {
+    list-style-type: none;
+}
+
+header nav ul li {
+    display: inline-block;
+    margin-left: 25px;
+}
+
+#intro  {
+    font-size: 15px;
+    background-color: rgb(232, 203, 249);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+
+#projects   {
+    font-size: 15px;
+    background-color: rgb(243, 206, 136);
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+#cooking    {
+    font-size: 15;
+    background-color: rgb(232, 203, 249);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#background {
+    background-image: url(C:\Users\jjfra\Desktop\homework\Porforlio\img\top background.png);
+}
+
+.contact-box    {
+    font-size: 15px;
+    background-color: bisque;
+    width: 25%;
+    height: 200px;
+    
+}
+.h1 {
+    text-align: center;
+}
+
