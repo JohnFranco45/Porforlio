@@ -6,7 +6,7 @@ I contructed a skeletal HTML and I started adding different elements inside, lik
 
 ## Screenshot
 
-![profile]()
+![profile](./assets/images/profile-ss.png)
 
 
 
